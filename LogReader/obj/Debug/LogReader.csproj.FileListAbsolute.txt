@@ -1,0 +1,7 @@
+C:\Users\a-maksimov\source\repos\LogReader\LogReader\bin\Debug\LogReader.exe.config
+C:\Users\a-maksimov\source\repos\LogReader\LogReader\bin\Debug\LogReader.exe
+C:\Users\a-maksimov\source\repos\LogReader\LogReader\bin\Debug\LogReader.pdb
+C:\Users\a-maksimov\source\repos\LogReader\LogReader\obj\Debug\LogReader.csprojAssemblyReference.cache
+C:\Users\a-maksimov\source\repos\LogReader\LogReader\obj\Debug\LogReader.csproj.CoreCompileInputs.cache
+C:\Users\a-maksimov\source\repos\LogReader\LogReader\obj\Debug\LogReader.exe
+C:\Users\a-maksimov\source\repos\LogReader\LogReader\obj\Debug\LogReader.pdb
